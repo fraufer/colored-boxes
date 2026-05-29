@@ -1,0 +1,38 @@
+body{
+  background-color: #f4f4f4;
+}
+
+
+h1{
+  text-align: center;
+}
+
+.color-grid{
+  width: 700px;
+  display: flex;
+  justify-content: space-between;
+  margin: 0 auto;
+  padding: 10px;
+}
+
+.color-box{
+  width: 100px;
+  height: 100px;
+  border-radius: 10px;
+}
+
+.color1{
+  background-color: #191970;
+}
+.color2{
+  background-color: rgb(139, 0, 0);
+}
+.color3{
+  background-color: darkgreen;
+}
+.color4{
+  background-color: hsl(300, 100%, 27%);
+}
+.color5{
+  background-color: coral;
+}
